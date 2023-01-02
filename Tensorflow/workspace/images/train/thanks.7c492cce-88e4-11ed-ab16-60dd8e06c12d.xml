@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedImages</folder>
+	<filename>thanks.7c492cce-88e4-11ed-ab16-60dd8e06c12d.jpg</filename>
+	<path>C:\Users\HarishChandranManoha\Desktop\MyProjects\DataScience\Gesture and Sign Language Detection\RealTimeObjectDetection\Tensorflow\workspace\images\collectedImages\thanks.7c492cce-88e4-11ed-ab16-60dd8e06c12d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thank you</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>429</xmin>
+			<ymin>277</ymin>
+			<xmax>865</xmax>
+			<ymax>487</ymax>
+		</bndbox>
+	</object>
+</annotation>
